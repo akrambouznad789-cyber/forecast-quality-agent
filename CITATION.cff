@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+type: software
+title: "Forecast-Quality Analysis Agent: an LLM Agent for Supply Chain Planners"
+abstract: >-
+  An evaluation of whether an LLM agent that calls forecasting tools answers supply chain planners' questions
+  about forecast quality (error, bias, prediction interval coverage) more accurately than the same LLM without
+  tools, using reference answers computed from M5 retail forecasts.
+authors:
+  - family-names: Bouznad
+    given-names: Akram
+    affiliation: Polytechnique Montréal
+repository-code: "https://github.com/akrambouznad789-cyber/forecast-quality-agent"
+license: MIT
+keywords:
+  - large language models
+  - LLM agents
+  - tool calling
+  - evaluation
+  - demand forecasting
+  - supply chain
